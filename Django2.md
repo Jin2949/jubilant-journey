@@ -113,8 +113,3 @@ url 'articles:greeting' 이름을 정확히 명시해 줄 수 있다.
 ```
 
 
-
-
-
-
-
