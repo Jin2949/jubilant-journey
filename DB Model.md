@@ -82,6 +82,7 @@ class Article(models.Model):
     #update하는법
     #article에 Article의 4번째거를 가져온다. article = Article.objects.get(pk=4)
     #article.title = "네번째 글"
+    #article.save()
     #title을 바꿔주고 save하면 update가 된다.
     
     #delete하는법
